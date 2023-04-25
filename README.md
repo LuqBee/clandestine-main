@@ -1,3 +1,2 @@
-# supersoap-testing
-test server please ignore okay 
-deizelton
+# clandestine-hub
+main clandestine server
